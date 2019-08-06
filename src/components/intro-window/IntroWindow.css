@@ -1,0 +1,25 @@
+.intro-window ul {
+    list-style: none;
+    padding: 0;
+}
+
+.intro-window ul li {
+    padding-left: 15px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.intro-window ul li:before {
+    content: "";
+    background-image: none;
+    width: 8px;
+    height: 14px;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    text-align: center;
+    background: #ee7023;
+    border-radius: 0 12px 12px 0;
+    -moz-border-radius: 0 12px 12px 0;
+    -webkit-border-radius: 0 12px 12px 0;
+}

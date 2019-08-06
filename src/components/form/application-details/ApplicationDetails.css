@@ -1,0 +1,7 @@
+.application-details .rangeslider__fill {
+    background-color: #F35B1C;
+}
+
+.application-details .slider-amount .rangeslider .rangeslider__handle-tooltip {
+    width: 70px;
+}

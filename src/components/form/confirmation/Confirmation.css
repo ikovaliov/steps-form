@@ -1,0 +1,9 @@
+.confirmation .confirmation-block {
+    background: white;
+    padding: 20px;
+    border-radius: 3px;
+}
+
+.confirmation .confirmation-block .table tbody tr td:first-child {
+    width: 50%;
+}
